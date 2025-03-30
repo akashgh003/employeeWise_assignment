@@ -4,6 +4,7 @@
 
 A modern React application that integrates with the Reqres API to perform user management functions. This project showcases a beautiful UI with a gradient background and responsive design.
 
+## Here's the Flowchart 👇
 ![App Flowchart](https://github.com/akashgh003/employeeWise_assignment/blob/main/Editor%20_%20Mermaid%20Chart-2025-03-29-151342.png)
 
 ## ✨ Features
