@@ -36,5 +36,5 @@ A modern React application that integrates with the Reqres API to perform user m
 
 1. Clone the repository
 ```bash
-git clone https://github.com/akashgh003/emplowise-user-management.git
+git clone https://github.com/akashgh003/employeeWise_assignment.git
 cd emplowise-user-management
